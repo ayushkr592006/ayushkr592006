@@ -61,3 +61,20 @@ I am a Full-Stack Engineer and dedicated algorithmic problem solver passionate a
 
 ---
 <!-- END: Tech Stack Grid -->
+
+<!-- START: GitHub Stats -->
+### 📊 System Telemetry (GitHub Stats)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushkr592006&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Ayush's GitHub Stats" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkr592006&theme=tokyonight&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9" alt="Ayush's Streak Stats" height="195" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkr592006&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Ayush's Top Languages" height="165" />
+</div>
+
+---
+<!-- END: GitHub Stats -->
