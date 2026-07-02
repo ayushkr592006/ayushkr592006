@@ -2,6 +2,10 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=transparent&color=58a6ff&text=AYUSH%20SINGH&fontSize=40&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Algorithmic%20Problem%20Solver&descAlignY=65&descSize=18&fontColor=ffffff" alt="Ayush Singh Banner" />
 
+  <br/>
+  <img src="profile.jpg" alt="Ayush Singh" width="160" style="border-radius: 50%; border: 3px solid #58a6ff; margin: 10px 0;" />
+  <br/>
+
   <p align="center">
     <a href="https://github.com/ayushkr592006"><img src="https://img.shields.io/badge/Profile-ayushkr592006-0d1117?style=flat-square&logo=github&logoColor=58a6ff" alt="GitHub Profile"></a>
     <img src="https://img.shields.io/badge/Location-India-0d1117?style=flat-square&logo=googlemaps&logoColor=58a6ff" alt="Location">
