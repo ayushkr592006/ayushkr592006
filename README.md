@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:070a13,100:121829&text=Ayush%20Singh&height=220&fontSize=45&fontColor=FF2E93&desc=Full-Stack%20Developer%20%7C%20Competitive%20Programmer&descAlignY=62&descSize=16&descColor=c9d1d9" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FF9933,45:ffffff,55:ffffff,100:138808&text=Ayush%20Singh&height=220&fontSize=45&fontColor=0d1117&desc=Full-Stack%20Developer%20%7C%20Competitive%20Programmer&descAlignY=62&descSize=16&descColor=0d1117" alt="Header" />
 </p>
 
 ## ⚡ Comp
