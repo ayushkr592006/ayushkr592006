@@ -44,16 +44,20 @@ I am a Full-Stack Developer and Competitive Programmer dedicated to building sca
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-## 📊 System Telemetry
+## 📊 System Telemetry & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushkr592006&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00D2FF&icon_color=FF2E93&text_color=c9d1d9" alt="GitHub Stats" height="180" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkr592006&theme=tokyonight&background=0d1117&ring=FF2E93&fire=00D2FF&currStreakLabel=c9d1d9" alt="Streak Stats" height="180" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushkr592006&bg_color=0d1117&color=58a6ff&line=FF9933&point=138808&area=true&area_color=1c2030&hide_border=true" alt="Ayush's GitHub Activity Graph" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkr592006&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00D2FF&icon_color=FF2E93&text_color=c9d1d9" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushkr592006&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=FF9933&icon_color=138808&text_color=c9d1d9" alt="GitHub Stats" height="180" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkr592006&theme=tokyonight&background=0d1117&ring=FF9933&fire=138808&currStreakLabel=c9d1d9" alt="Streak Stats" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkr592006&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=FF9933&icon_color=138808&text_color=c9d1d9" alt="Top Languages" height="180" />
 </p>
 
 ## 📡 Establish Connection
