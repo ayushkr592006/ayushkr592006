@@ -78,3 +78,28 @@ I am a Full-Stack Engineer and dedicated algorithmic problem solver passionate a
 
 ---
 <!-- END: GitHub Stats -->
+
+<!-- START: Contact & Footer -->
+### 📡 Establish Connection
+
+<div align="center">
+  <a href="mailto:ayushkr592006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/ayushkr592006">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/ayushkr592006">
+    <img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=F89F1B" alt="LeetCode" />
+  </a>
+  <a href="https://codeforces.com/profile/ayushkr592006">
+    <img src="https://img.shields.io/badge/Codeforces-0d1117?style=for-the-badge&logo=codeforces&logoColor=1F8ACB" alt="Codeforces" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <sub>Designed with 🌌 Antigravity theme. Built by Ayush Singh.</sub>
+</div>
+<!-- END: Contact & Footer -->
